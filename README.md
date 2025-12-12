@@ -1,16 +1,13 @@
 # taskeventmanager
 
-A new Flutter project.
+A new Flutter project (task event manager for pixell.in
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task & Event Manager — Flutter Application
+This is a simple Flutter-based Task & Event Management app that allows users to:
+Add, edit, and delete tasks
+Add, edit, and delete events
+Store data locally using SQLite (sqflite package)
+Navigate using a bottom navigation bar
+Use separate screens for creating and editing items
